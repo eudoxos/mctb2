@@ -1,1 +1,1 @@
-# Moved to → https://github.com/edhamma/mctb2
+# Moved to → https://github.com/edhamma/jodok-path
